@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.parliament.vic.gov.au	TRUE	/	FALSE	1999999999	TS014530cc	01b6f09fa666595edfd54618ecb935fbdb2fc84b0360087913aab1911d0322bb596f24aa9abf845332a3857defc9c3123d95291503
-www.aph.gov.au	TRUE	/	FALSE	1999999999	TS012ecdf6	01a57d488dba15a81019ac1ebd6f9cdfd684c63aaec3c24ed556a8aedc9e3889245a890eb1
-
